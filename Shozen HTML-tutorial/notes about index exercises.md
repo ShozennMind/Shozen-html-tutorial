@@ -1,4 +1,4 @@
-## Notes
+## HTML tutorial (soon CSS3)
 
 The HTML code (in pink) is made up of characters that live inside angled
 brackets — these are called HTML elements. Elements are usually
